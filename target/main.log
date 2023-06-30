@@ -1,0 +1,20 @@
+2023-06-30 17:00:53 INFO  ebanking:19 - TC_001_URL is opened
+  2023-06-30 17:00:53 INFO  ebanking:23 - TC001_Username Entered
+  2023-06-30 17:00:53 INFO  ebanking:25 - TC001_Password Entered
+  2023-06-30 17:01:00 INFO  ebanking:29 - TC001_Clicked on Submit
+  2023-06-30 17:01:05 INFO  ebanking:33 - TC001_Loggin Test Passed
+  2023-06-30 17:01:17 INFO  ebanking:23 - TC003_Username is provided
+  2023-06-30 17:01:17 INFO  ebanking:25 - TC003_Password is provided
+  2023-06-30 17:01:23 INFO  ebanking:33 - TC003_Click on Add Customer...
+  2023-06-30 17:01:25 INFO  ebanking:40 - TC003_Providing customer details...
+  2023-06-30 17:01:34 INFO  ebanking:57 - TC003_Validation started
+  2023-06-30 17:01:34 INFO  ebanking:62 - TC003_Test Case Passed...
+  2023-06-30 17:01:35 INFO  ebanking:63 - TC003_Customer_id: 79259
+  2023-06-30 17:01:44 INFO  ebanking:16 - TC004_Username is provided
+  2023-06-30 17:01:44 INFO  ebanking:18 - TC004_Password is provided
+  2023-06-30 17:01:49 INFO  ebanking:23 - TC004_Click on Edit Customer
+  2023-06-30 17:01:53 INFO  ebanking:36 - TC004_Email id editted
+  2023-06-30 17:01:53 INFO  ebanking:38 - TC004_State id editted
+  2023-06-30 17:01:53 INFO  ebanking:40 - TC004_Changes submitted
+  2023-06-30 17:01:53 INFO  ebanking:44 - TC004_Alert accepeted
+  
